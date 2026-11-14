@@ -1,4 +1,4 @@
-# SmartVision AI — Intelligent Text Recognition System
+# SmartVision AI - Intelligent Text Recognition System
 
 SmartVision AI is a beginner-friendly OCR application built for DecodeLabs Artificial Intelligence Project 4 (Batch 2026). It accepts an image of printed text, prepares the image with OpenCV, and uses Tesseract OCR to extract the text and report Tesseract's word-level confidence estimates.
 
