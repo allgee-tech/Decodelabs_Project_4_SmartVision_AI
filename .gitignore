@@ -1,0 +1,21 @@
+# Python bytecode and local environments
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+
+# Streamlit local secrets and cache
+.streamlit/secrets.toml
+.streamlit/credentials.toml
+
+# Local editor/OS files
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Test and build output
+.pytest_cache/
+.mypy_cache/
+build/
+dist/
+*.egg-info/
